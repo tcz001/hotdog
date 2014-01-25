@@ -16,7 +16,7 @@ printf "</string>
         <string>./hotdog.sh</string>
       </array>
     <key>StartInterval</key>
-    <integer>2</integer>
+    <integer>10</integer>
 </dict>
 </plist>
 " >> hotdog.plist
